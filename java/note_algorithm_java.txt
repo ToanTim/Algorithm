@@ -1,0 +1,21 @@
+1. Java Syntax
+   - file name: alway uppercase first letter
+   - Code line run in class
+   - Class name = file name
+   - All the code in class name will run
+
+2. Java data type: String, int float, char, boolean
+   - Final + data type = const (unchangeable) final int myNum = 15
+   - Primitive Data types : byte(1byte), short (2byte), int (4byte),long (8byte),float (4byte),double (8byte),boolean (1byte),char (2byte) [In java,can not be null, start with lowercase]
+   - None-premitive data type: String (start with upppercase, can be null, call method)
+
+3. Casting
+   - Widenning Casting: smaller type => larger type
+     int a=10;
+     double b=a (automatic casting);
+   - Narrowing Casting: larger => smaller
+     double a =9.78d;
+     iny b=(int) a ; (manual casting)
+4. Method
+   - Method overloading (declare same name but different input type)
+   - Method scope (variable can only access in scope that it is delared in)
