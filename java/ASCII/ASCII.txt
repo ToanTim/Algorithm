@@ -1,0 +1,12 @@
+- ASCII (American Standard Code for Information Interchange) is a character encoding standard that assigns unique
+numeric codes to represent characters in the English alphabet, as well as punctuation marks, digits, and other
+common symbols. In ASCII, each character is represented by a 7-bit binary number, allowing for a total of 128
+possible characters.
+
+- ASCII is widely used in programming languages to represent text data. For example, in Java, characters are
+represented using the char data type, which is based on ASCII encoding. ASCII codes can be used to perform
+various operations on characters, such as comparing them, converting them to uppercase or lowercase, and so on.
+
+- It's worth noting that ASCII is a relatively limited character set and may not be sufficient for representing
+text in languages other than English. In such cases, other character encoding standards such as Unicode may be
+used instead.
